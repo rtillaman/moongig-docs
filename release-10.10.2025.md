@@ -33,7 +33,9 @@ We've added a new **Company Directory** page for HCP applicants. This allows use
 * **Click a company** to open their profile page and view available job/shift postings.
 * **Top hiring companies** are displayed at the **top of the list.**
 
-<figure><img src=".gitbook/assets/499248976-9d453264-d6a8-4ca3-98b4-dacfedaf78ee.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-10-10 at 9.37.22 AM.png" alt=""><figcaption><p>Company Directory</p></figcaption></figure>
+
+
 
 ## Email Content Changes
 
