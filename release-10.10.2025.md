@@ -28,7 +28,7 @@ We've added a new **Company Directory** page for HCP applicants. This allows use
 
 **Key Features:**
 
-* Added a list of all companies with their **company name, logo, description, industry/role type, and # of openings.**
+* Added a list of all companies with their **company name, logo, description, and # of openings.**
 * **Search and filter** companies by **name, professions, types,** or **location**.
 * **Click a company** to open their profile page and view available job/shift postings.
 * **Top hiring companies** are displayed at the **top of the list.**
