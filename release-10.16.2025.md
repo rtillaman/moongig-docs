@@ -106,7 +106,7 @@ This update helps recruiters make more informed hiring decisions by providing be
 
 <figure><img src=".gitbook/assets/Screenshot 2025-10-15 at 6.03.52 PM.png" alt=""><figcaption><p>Job applicant history</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/498774946-ac9b1a8f-018a-41bd-8066-114da4003547.png" alt="" width="375"><figcaption><p>Other Job Applications with you</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-10-15 at 6.41.55 PM.png" alt="" width="308"><figcaption><p>Other Job Applications with you</p></figcaption></figure>
 
 
 
