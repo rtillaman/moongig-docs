@@ -114,6 +114,18 @@ This update helps recruiters make more informed hiring decisions by providing be
 
 
 
+## Landing Page Improvements
+
+* The **Company Directory** has been **redesigned** with a cleaner look and **better company search**.
+* **Filters and dropdowns** are now more consistent and are easier to use.
+* Each **Company Page** has been **revamped** with an updated layout and improved styling for a better viewing experience.
+
+<figure><img src=".gitbook/assets/Screenshot 2025-10-16 at 11.56.26 AM.png" alt=""><figcaption><p>Companies Directory</p></figcaption></figure>
+
+
+
+<figure><img src=".gitbook/assets/Screenshot 2025-10-16 at 11.57.01 AM.png" alt=""><figcaption><p>Specific Company Page</p></figcaption></figure>
+
 ## Bug Fixes & Improvements
 
 ### Viewed State
