@@ -9,6 +9,10 @@ We’ve added **two new fields** under the **Compensation** section during shift
 * **Emergency Funds**
 * **Allowance**
 
+> **Emergency Funds** – available only to **MedGrocer**
+>
+> **Allowance** – available only to **The Medical City**
+
 <figure><img src=".gitbook/assets/Screenshot 2025-10-15 at 5.05.31 PM (1).png" alt=""><figcaption><p>Shift Creation with Emergency Funds &#x26; Allowance</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screenshot 2025-10-15 at 5.10.36 PM.png" alt=""><figcaption><p>Shift Summary (Shift Creation)</p></figcaption></figure>
