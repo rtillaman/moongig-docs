@@ -165,7 +165,25 @@ All **Shift** and **Account** email notifications have now been fully migrated t
 * **\[37] ID Near Expiration**
 * **\[38] Account Temporarily Suspended**
 
+## Landing Page Improvements
 
+**Company Website Link Feature**
+
+* **Desktop**: Users can visit a company's website by clicking either the provider card or the external link icon in the top-right corner,
+* **Mobile**: Users can access the company's website by tapping anywhere on the provider card
+
+<figure><img src=".gitbook/assets/banner.png" alt=""><figcaption></figcaption></figure>
+
+**Responsive Styling Updates**
+
+* Fixed responsiveness of the header to different mobile screens,
+* Fixed header buttons styling
+
+<figure><img src=".gitbook/assets/styling.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/aligned buttons.png" alt=""><figcaption></figcaption></figure>
+
+* Location filter is now persistent alongside the profession filter when navigating
 
 ## Bug Fixes
 
