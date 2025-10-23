@@ -165,6 +165,16 @@ All **Shift** and **Account** email notifications have now been fully migrated t
 * **\[37] ID Near Expiration**
 * **\[38] Account Temporarily Suspended**
 
+### FGD Email (Moongig Only)
+
+Added an "**Is FGD"** checkbox when creating a new shift under the **Moongig** client to tag shifts for FGD participants.
+
+<figure><img src=".gitbook/assets/Screenshot 2025-10-23 at 4.11.23 PM.png" alt=""><figcaption></figcaption></figure>
+
+* Tagged shifts will now send **FGD Pre Check-in** and **FGD Pre Check-out** email notifications to the HCP.
+
+<figure><img src=".gitbook/assets/fgd.png" alt=""><figcaption></figcaption></figure>
+
 ## Landing Page Improvements
 
 **Company Website Link Feature**
@@ -185,12 +195,9 @@ All **Shift** and **Account** email notifications have now been fully migrated t
 
 * Location filter is now persistent alongside the profession filter when navigating
 
+
+
 ## Bug Fixes
 
 * Fixed an issue where users got stuck on the post-shift feedback screen after clicking **“Submit Feedback”** or **“No, thank you”** instead of being redirected to the main dashboard.
 * Fixed issues where the tutorial incorrectly appeared during account creation, including after refreshing or revisiting the Terms of Service page and when overlapping with the Profile Review Successful screen after account approval.
-
-
-
-
-
