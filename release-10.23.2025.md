@@ -2,7 +2,7 @@
 
 ## Other Payments
 
-We’ve added a new feature that allows **Moongig payout admins** to release payments to users participating in **FGDs (Focus Group Discussions)** and the **Ambassador Program**.\
+We’ve added a new feature that allows **Moongig payout admins** to release payments to other users such as **Ambassadors**.\
 This functionality is available **only to the “Moongig” client**.
 
 <figure><img src=".gitbook/assets/Screenshot 2025-10-23 at 12.49.29 PM.png" alt=""><figcaption></figcaption></figure>
@@ -30,14 +30,16 @@ This functionality is available **only to the “Moongig” client**.
 
 **Transaction Types**
 
-| FGD participation - Online     |
-| ------------------------------ |
-| FGD participation - In-person  |
-| Successful Referral            |
-| Successful Shift Application   |
-| Successful Job Application     |
-| Ambassador program - Quota     |
-| Ambassador program - Allowance |
+> Note: FGD participation types are currently disabled.
+
+| FGD participation - Online _(disabled for now)_    |
+| -------------------------------------------------- |
+| FGD participation - In-person _(disabled for now)_ |
+| Successful Referral                                |
+| Successful Shift Application                       |
+| Successful Job Application                         |
+| Ambassador program - Quota                         |
+| Ambassador program - Allowance                     |
 
 <figure><img src=".gitbook/assets/Screenshot 2025-10-23 at 12.46.06 PM.png" alt=""><figcaption><p>Payout admin page - Other Payout</p></figcaption></figure>
 
@@ -45,9 +47,9 @@ Users will see the payment reflected in their **app** under their **transactions
 
 <figure><img src=".gitbook/assets/Screenshot 2025-10-23 at 1.19.49 PM.png" alt="" width="375"><figcaption><p>User Transactions Page</p></figcaption></figure>
 
-## Quick sign up for FGD/Ambassadors
+## Quick sign up for Ambassadors
 
-To support payments for other **users** such as **FGD participants** and **Ambassadors**, we’ve added a **new quick sign-up page** that allows them to easily register and receive payments directly in the app.
+To support payments for other **users** such as **Ambassadors**, we’ve added a **new quick sign-up page** that allows them to easily register and receive payments directly in the app.
 
 <div><figure><img src=".gitbook/assets/Screenshot 2025-10-23 at 12.52.27 PM (1).png" alt=""><figcaption><p>Sign up fast - step 1</p></figcaption></figure> <figure><img src=".gitbook/assets/Screenshot 2025-10-23 at 12.52.48 PM (1).png" alt=""><figcaption><p>Sign up fast - step 2</p></figcaption></figure> <figure><img src=".gitbook/assets/Screenshot 2025-10-23 at 12.52.55 PM (1).png" alt=""><figcaption><p>Sign up fast - step 3</p></figcaption></figure></div>
 
@@ -81,7 +83,6 @@ Users who sign up through this page will have access to only two sections:
 
 * After signing up, users are initially tagged as **“For Verification.”**
 * Once approved by the team:
-  * **FGD users** are marked as **Verified.**
   * **Ambassadors** are marked as **Verified** and receive their **unique referral code.**
 
 <div><figure><img src=".gitbook/assets/Screenshot 2025-10-23 at 1.08.20 PM.png" alt="" width="563"><figcaption><p>For ambassadors</p></figcaption></figure> <figure><img src=".gitbook/assets/Screenshot 2025-10-23 at 1.08.25 PM.png" alt="" width="563"><figcaption><p>Verified Profile</p></figcaption></figure></div>
