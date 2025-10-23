@@ -5,3 +5,4 @@
 * [Release 10.01.2025](release-10.01.2025.md)
 * [Release 10.10.2025](release-10.10.2025.md)
 * [Release 10.16.2025](release-10.16.2025.md)
+* [Release 10.23.2025](release-10.23.2025.md)
