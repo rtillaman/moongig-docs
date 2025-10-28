@@ -47,7 +47,7 @@ The primary focus of this update is to allow potential healthcare professionals 
 
 <figure><img src=".gitbook/assets/unknown (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
+<figure><img src=".gitbook/assets/Screenshot 2025-10-28 at 9.15.38 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Keywords and Input Limits for Companies (Admin)
 
