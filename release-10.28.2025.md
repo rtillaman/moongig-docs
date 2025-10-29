@@ -89,5 +89,6 @@ We've made several updates behind the scenes to help companies present better in
 <figure><img src=".gitbook/assets/download-overseas.png" alt=""><figcaption></figcaption></figure>
 
 * Fixed an issue in the **Professional App** where the **“Documents Required”** modal did not appear after applying to jobs that required a diploma, allowing users without a diploma but with an uploaded CV to apply. The modal now correctly appears for all jobs with required documents.
+* Fixed an issue where logged-in users who clicked on provider links such as [**moongig.xyz/p/tmcc**](https://www.moongig.xyz/c/tmcc) or [moongig.xyz/p/medgrocer](https://www.moongig.xyz/c/medgrocer) were not redirected properly. Logged-in users will now be redirected to the correct **provider view list** within the app.
 
 \
