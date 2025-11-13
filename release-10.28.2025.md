@@ -30,7 +30,7 @@ The primary focus of this update is to allow potential healthcare professionals 
 * Crucially, once you complete the basic profile setup, the system automatically brings you **right back to the exact job or shift ad** **you were viewing**, allowing you to finish the application instantly.\
 
 
-<figure><img src=".gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -43,9 +43,9 @@ The primary focus of this update is to allow potential healthcare professionals 
 
 &#x20;
 
-<figure><img src=".gitbook/assets/unknown (2) (1).png" alt="" width="506"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (2) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/unknown (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screenshot 2025-10-28 at 9.15.38 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 

@@ -8,7 +8,7 @@ As part of improving job ad discoverability and transparency for healthcare prof
 
 Users can now **sort jobs and shift ads by salary**, from **highest to lowest or lowest to highest**, allowing them to explore opportunities that best fit their compensation preferences.
 
-![](.gitbook/assets/unknown.png)![](<.gitbook/assets/unknown (1).png>)
+![](<.gitbook/assets/unknown (3).png>)![](<.gitbook/assets/unknown (1) (1).png>)
 
 ## Shift Management: Update and delete draft shifts and posts
 
@@ -23,7 +23,7 @@ Users can now:
 
 
 
-<p align="center"><img src=".gitbook/assets/unknown (2).png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/unknown (2) (1).png" alt=""></p>
 
 ## New Email Templates
 
@@ -35,7 +35,7 @@ To help healthcare professionals stay informed and connected, we’ve launched n
 
     A new template encourages users to t**urn on Shift and Job Notifications**, guiding them step-by-step on how to stay updated via **SMS or Emai**l for new job or shift opportunities.
 
-<p align="center"><img src=".gitbook/assets/unknown (3).png" alt=""></p>
+<p align="center"><img src=".gitbook/assets/unknown (3) (1).png" alt=""></p>
 
 \
 
