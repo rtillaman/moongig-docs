@@ -1,4 +1,4 @@
-# Release 11.18.2025
+# Release 11.19.2025
 
 ## Streamlined Documents Upload
 
@@ -28,11 +28,9 @@ We’ve completely reworked the document upload workflow to better guide users t
 
 <figure><img src=".gitbook/assets/unknown (8).png" alt=""><figcaption><p>New onboarding screen</p></figcaption></figure>
 
-<h2 align="center"><img src=".gitbook/assets/unknown (9).png" alt=""><img src=".gitbook/assets/unknown (10).png" alt=""><br></h2>
+<p align="center"><img src=".gitbook/assets/unknown (9).png" alt=""><img src=".gitbook/assets/unknown (10).png" alt=""></p>
 
 <p align="center"><img src=".gitbook/assets/unknown (11).png" alt=""><img src=".gitbook/assets/unknown (12).png" alt=""></p>
-
-
 
 **Full requirements**
 
@@ -43,16 +41,13 @@ We’ve completely reworked the document upload workflow to better guide users t
 \
 
 
-<p align="center"><img src=".gitbook/assets/unknown (17).png" alt=""></p>
-
-\
-
+<p align="center"><img src=".gitbook/assets/unknown (17).png" alt=""><br></p>
 
 Once the team reviewed and approved the account, the “Profile Review Successful” screen will appear.
 
 <p align="center"><img src=".gitbook/assets/unknown (18).png" alt=""></p>
 
-##
+
 
 ## New Document Types: Board Rating Certificate & Certificate of Employment
 
