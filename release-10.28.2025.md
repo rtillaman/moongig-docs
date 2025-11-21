@@ -27,13 +27,11 @@ The primary focus of this update is to allow potential healthcare professionals 
 
 * The **"Apply" button r**emains clearly visible, but it **no longer triggers an immediate sign-up modal** that blocks the application process.
 * The application process now begins only _after_ you click "Apply." You'll be redirected to a single sign-up/login page.
-* Crucially, once you complete the basic profile setup, the system automatically brings you **right back to the exact job or shift ad** **you were viewing**, allowing you to finish the application instantly.\
-
+* Crucially, once you complete the basic profile setup, the system automatically brings you **right back to the exact job or shift ad** **you were viewing**, allowing you to finish the application instantly.<br>
 
 <figure><img src=".gitbook/assets/unknown (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **For web view,** when you click a Job/Shift ad, you will land on the dedicated detail page and have full access to the description, requirements, and compensation **without any login prompt.**
 
@@ -91,4 +89,4 @@ We've made several updates behind the scenes to help companies present better in
 * Fixed an issue in the **Professional App** where the **“Documents Required”** modal did not appear after applying to jobs that required a diploma, allowing users without a diploma but with an uploaded CV to apply. The modal now correctly appears for all jobs with required documents.
 * Fixed an issue where logged-in users who clicked on provider links such as [**moongig.xyz/p/tmcc**](https://www.moongig.xyz/c/tmcc) or [moongig.xyz/p/medgrocer](https://www.moongig.xyz/c/medgrocer) were not redirected properly. Logged-in users will now be redirected to the correct **provider view list** within the app.
 
-\
+<br>

@@ -38,8 +38,7 @@ We’ve completely reworked the document upload workflow to better guide users t
 
 <p align="center"><img src=".gitbook/assets/unknown (15).png" alt=""><img src=".gitbook/assets/unknown (16).png" alt=""></p>
 
-\
-
+<br>
 
 <p align="center"><img src=".gitbook/assets/unknown (17).png" alt=""><br></p>
 
@@ -51,8 +50,7 @@ Once the team reviewed and approved the account, the “Profile Review Successfu
 
 ## New Document Types: Board Rating Certificate & Certificate of Employment
 
-We’ve expanded the list of supported documents to help users provide more complete and verifiable professional information. These new document types strengthen profile credibility and improve how companies assess qualifications.\
-
+We’ve expanded the list of supported documents to help users provide more complete and verifiable professional information. These new document types strengthen profile credibility and improve how companies assess qualifications.<br>
 
 **What’s New**
 
@@ -64,8 +62,7 @@ We’ve expanded the list of supported documents to help users provide more comp
 
 <p align="center"><img src=".gitbook/assets/unknown (21).png" alt=""></p>
 
-\
-
+<br>
 
 ## Optional Religious Affiliation in Profile
 

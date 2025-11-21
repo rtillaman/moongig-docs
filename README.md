@@ -16,13 +16,11 @@
 
 
 
-**Professional App Preview:**\
-
+**Professional App Preview:**<br>
 
 <figure><img src=".gitbook/assets/hcp preview.png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 ## Prefilled Interview Notes
 

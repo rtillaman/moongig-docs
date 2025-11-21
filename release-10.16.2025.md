@@ -93,8 +93,7 @@ We’ve updated the **HCP view under Jobs** to better highlight job applications
 
 <figure><img src=".gitbook/assets/for interview.png" alt="" width="245"><figcaption><p>For Interview Section Update</p></figcaption></figure>
 
-\
-
+<br>
 
 ### Past shifts and job applications
 

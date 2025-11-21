@@ -37,8 +37,7 @@ To help healthcare professionals stay informed and connected, we’ve launched n
 
 <p align="center"><img src=".gitbook/assets/unknown (3) (1).png" alt=""></p>
 
-\
-
+<br>
 
 *   **Earthquake Evacuation Reminder:**
 
@@ -76,7 +75,6 @@ To help healthcare professionals stay informed and connected, we’ve launched n
 * Fixed an issue where loading skeletons briefly appeared when switching between the “Within 48hrs” and “Within 7 Days” tabs in the Latest Shifts section. Transitions now display smoothly without interruptions.
 
 \
-\
-
+<br>
 
 [^1]: 

@@ -26,8 +26,7 @@ To help us better match healthcare professionals with overseas opportunities, we
 
 ![](.gitbook/assets/unknown.png)![](<.gitbook/assets/unknown (1).png>)
 
-\
-
+<br>
 
 This helps improve recommendations and ensures users see opportunities that better align with their experience and career goals.
 
@@ -37,8 +36,7 @@ This helps improve recommendations and ensures users see opportunities that bett
 
 <figure><img src=".gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 * Fixed an issue where the **FTUE tutorial experienced noticeable delays** when highlighting app features, causing the highlight to overlap with the Search page. The tutorial now transitions smoothly between steps without delay.
 * Fixed an issue where **long job titles** in the company card on the Job Details page were being **cut off** on the Professional app. Job titles now wrap correctly and display in full within the card.

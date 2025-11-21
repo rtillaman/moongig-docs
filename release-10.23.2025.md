@@ -7,8 +7,7 @@ This functionality is available **only to the “Moongig” client**.
 
 <figure><img src=".gitbook/assets/Screenshot 2025-10-23 at 12.49.29 PM.png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 **How to Release a Payment**
 
