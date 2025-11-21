@@ -31,7 +31,7 @@ We’re releasing the first version of Talent Search to help companies quickly f
 
 <figure><img src=".gitbook/assets/Screenshot 2025-11-21 at 2.30.23 PM (1).png" alt="" width="534"><figcaption><p>Invite Talent - Drawer</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Screenshot 2025-11-21 at 2.34.49 PM.png" alt=""><figcaption><p>Invitation - Email</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-11-21 at 2.40.59 PM.png" alt=""><figcaption><p>Invitation - Email</p></figcaption></figure>
 
 **Coming Soon (Next Release)**
 
