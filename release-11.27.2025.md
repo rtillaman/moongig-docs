@@ -21,3 +21,7 @@ We’ve improved the existing Not Qualified workflow to ensure better communicat
 
 * Fixed issue where the status text for applicants in the Job Post page appeared misaligned when multiple applicants had different status labels.&#x20;
 * Fixed email header for rejected, offered, hired job notifications.
+* Added all professions and top professions in landing page filters.
+
+<figure><img src=".gitbook/assets/Screenshot 2025-11-27 at 4.04.22 PM.png" alt=""><figcaption></figcaption></figure>
+
