@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Release 11.21.2025
 
 ## Talent Search (MVP)
