@@ -30,9 +30,9 @@ A new Manage States panel is now accessible from the Applicants view. Providers 
 * Reactivation: Hidden states can be set to visible anytime from the Manage States panel.
 * Data Integrity: Any action that impacts a state with existing applicants is disabled to avoid data inconsistencies.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<div align="center" data-with-frame="true"><figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -69,15 +69,15 @@ We’ve improved the feedback and communication flow in the ATS pipeline by intr
 * Reduces mistakes or miscommunication with applicants.
 * Helps recruiters understand which actions are reversible and which are final.
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Updated Reimbursement Template
 
@@ -147,18 +147,18 @@ We’ve introduced an automated document expiry system to help ensure that HCPs 
 * Expired documents now display a prominent Expired tag on the HCP’s Documents page.
 * A “Missing/Expired Document” warning appears with the specific document name to prompt updates.
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="true" data-with-frame="true"><figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Notifications to HCPs
 
 * 30 Days Before Expiry: Automated email + in-app reminder to renew the document.
 * On Expiry: Automated email + in-app alert informing them that their verification is now invalid until the document is updated.
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Verification & Application Restrictions
 
@@ -181,9 +181,9 @@ Unique View Counter (Provider-Only)
 * The Job/Shift Details page
 * Only Providers (job owners) and Moongig Admins can see this metric. HCPs cannot.
 
-<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure></div>
 
 #### How Views Are Tracked
 
