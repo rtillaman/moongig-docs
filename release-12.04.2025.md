@@ -181,6 +181,10 @@ Unique View Counter (Provider-Only)
 * The Job/Shift Details page
 * Only Providers (job owners) and Moongig Admins can see this metric. HCPs cannot.
 
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
 #### How Views Are Tracked
 
 * A view is counted only when a unique HCP opens the Job/Shift Details and keeps it open for at least 3 seconds.
