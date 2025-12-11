@@ -13,3 +13,4 @@
 * [Release 11.21.2025](release-11.21.2025.md)
 * [Release 11.27.2025](release-11.27.2025.md)
 * [Release 12.04.2025](release-12.04.2025.md)
+* [Release 12.11.2025](release-12.11.2025.md)
