@@ -45,6 +45,8 @@ Each profile state now reflects what the Professional can access and what action
 
 <div align="left"><figure><img src=".gitbook/assets/image (23).png" alt="" width="316"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (1).webp" alt="" width="311"><figcaption></figcaption></figure></div>
 
+<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
 ## Shift Reset Workaround
 
 We’ve implemented a more transparent and applicant-friendly system to address the issues caused by “stale” shifts and their reset behavior.
