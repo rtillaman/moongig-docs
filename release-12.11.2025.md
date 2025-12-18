@@ -9,35 +9,35 @@ We’ve updated the Profile Type system to create a clearer, more consistent pro
 ### **Streamlined Profile Progression**
 
 The profile journey has been restructured into a transparent, standardized flow:\
-New → Basic → Basic (Under Review) → Basic (Verified) → Professional (Under Review) → Professional (Verified).\
+**New → Basic → Basic (Under Review) → Basic (Verified) → Professional (Under Review) → Professional (Verified)**.\
 This progression dynamically updates based on requirements completed and MedOps review actions.
 
 **Clearer Rules Per Profile Type**
 
 Each profile state now reflects what the Professional can access and what actions are required:
 
-* New Profile
-* Triggered when an HCP skips CV extraction (“I’ll do it on my own”).
-* Cannot apply for jobs.
-* Guided to complete Basic Profile requirements.
-* Basic Profile
-* Granted when an HCP completes all 8/8 basic requirements.
-* Can apply for jobs unless a specific posting requires an additional document.
-* Missing required docs display contextual warnings.
-* Basic (Under Review)
-* Triggered once supporting documents are uploaded.
-* Can apply for jobs; lower match score since not yet verified.
-* MedOps can approve verification in Retool.
-* Basic (Verified)
-* Granted once MedOps sets status to BASIC\_PROFILE\_VERIFIED.
-* If a verified doc expires, automatically downgrades to Basic (Under Review).
-* Professional (Under Review)
-* Triggered when all 12/12 requirements are completed.
-* Eligible for all jobs/shifts.
-* Awaiting MedOps verification in Retool.
-* Professional (Verified)
-* Final and highest status.
-* Auto-downgrades to Professional (Under Review) if a required doc expires.
+* **New Profile**
+  * Triggered when an HCP skips CV extraction (“I’ll do it on my own”).
+  * Cannot apply for jobs.
+  * Guided to complete Basic Profile requirements.
+* **Basic Profile**
+  * Granted when an HCP completes all **8/8 basic requirements**.
+  * Can apply for jobs unless a specific posting requires an additional document.
+  * Missing required docs display contextual warnings.
+* **Basic (Under Review)**
+  * Triggered once supporting documents are uploaded.
+  * Can apply for jobs; lower match score since not yet verified.
+  * MedOps can approve verification in Retool.
+* **Basic (Verified)**
+  * Granted once MedOps sets status to `BASIC_PROFILE_VERIFIED`.
+  * If a verified doc expires, automatically downgrades to Basic (Under Review).
+* **Professional (Under Review)**
+  * Triggered when all 12/12 requirements are completed.
+  * Eligible for all jobs/shifts.
+  * Awaiting MedOps verification in Retool.
+* **Professional (Verified)**
+  * Final and highest status.
+  * Auto-downgrades to Professional (Under Review) if a required doc expires.
 
 ![](<.gitbook/assets/image (20).png>)&#x20;
 
@@ -106,13 +106,13 @@ Pinned logic is backend-defined and hardcoded—MedOps cannot manually toggle pi
 
 Pinned items respect the Professional’s selected tags on the Home Page:
 
-* Nearby Selected
-* Overseas items: Always shown
-* Local items: Shown only if matching the user’s region
-* Profession Selected
-* Displays pinned items relevant to the user’s profession
-* No Tags Selected
-* Shows all pinned items by default
+* **Nearby Selected**
+  * Overseas items: Always shown
+  * Local items: Shown only if matching the user’s region
+* **Profession Selected**
+  * Displays pinned items relevant to the user’s profession
+* **No Tags Selected**
+  * Shows all pinned items by default
 
 **Three-Tiered Priority Sorting**
 
