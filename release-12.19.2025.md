@@ -31,8 +31,6 @@ We’re adding **Weekly Job Picks (WJP)**, a curated set of top job listings pub
 
 
 
-##
-
 ## Landing Page Improvements
 
 We’ve updated the **Landing Page** to better highlight Moongig’s value proposition as soon as users arrive, while keeping **Sign Up For Free** as the primary call-to-action above the fold.
@@ -49,7 +47,7 @@ We’ve updated the **Landing Page** to better highlight Moongig’s value propo
 
 <figure><img src=".gitbook/assets/Screenshot 2025-12-19 at 1.20.54 PM.png" alt=""><figcaption></figcaption></figure>
 
-##
+
 
 ## Recruiter Notes
 
