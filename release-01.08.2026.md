@@ -35,8 +35,7 @@ We’ve expanded our notifications to keep Recruiters and Users better informed 
 **What’s New?**
 
 * **Shift Reset Notification**
-  * Recruiters can now reset a shift without deleting it, even if it already has applicants
-  * Affected applicants are automatically notified and invited to re-apply under the updated shift/job
+  * Previously, users would receive a "New Shift Available" alert even if a shift was simply being updated or reset. Now, non-applicants will receive a Shift Updated email that clearly highlights exactly what changed.
 
 <div><figure><img src=".gitbook/assets/image3.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image4.png" alt=""><figcaption></figcaption></figure></div>
 
