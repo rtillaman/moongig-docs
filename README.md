@@ -8,11 +8,11 @@
 
 **Provider side preview:**
 
-<figure><img src=".gitbook/assets/image.png" alt="" width="535"><figcaption><p>Step 1: Select Manual Scheduling -> Online</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt="" width="535"><figcaption><p>Step 1: Select Manual Scheduling -> Online</p></figcaption></figure>
 
 
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="529"><figcaption><p>Step 2: Select Communication Channel then input link</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="529"><figcaption><p>Step 2: Select Communication Channel then input link</p></figcaption></figure>
 
 
 

@@ -15,3 +15,4 @@
 * [Release 12.04.2025](release-12.04.2025.md)
 * [Release 12.11.2025](release-12.11.2025.md)
 * [Release 12.19.2025](release-12.19.2025.md)
+* [Release 01.08.2026](release-01.08.2026.md)

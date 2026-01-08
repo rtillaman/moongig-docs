@@ -11,7 +11,7 @@ We have replaced the "enter code" process with the new **Magic Link** authentica
 1. Users click a **secure, one-click** **button** in their email.
 2. The button brings them **straight back to our app**, signed in and verified.
 
-<figure><img src=".gitbook/assets/unknown (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 This new flow is the first step in our mobile-first strategy to maximize user activation.
 
@@ -29,7 +29,7 @@ The primary focus of this update is to allow potential healthcare professionals 
 * The application process now begins only _after_ you click "Apply." You'll be redirected to a single sign-up/login page.
 * Crucially, once you complete the basic profile setup, the system automatically brings you **right back to the exact job or shift ad** **you were viewing**, allowing you to finish the application instantly.<br>
 
-<figure><img src=".gitbook/assets/unknown (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
@@ -41,9 +41,9 @@ The primary focus of this update is to allow potential healthcare professionals 
 
 &#x20;
 
-<figure><img src=".gitbook/assets/unknown (2) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (2) (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/unknown (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (3) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screenshot 2025-10-28 at 9.15.38 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -57,7 +57,7 @@ We've made several updates behind the scenes to help companies present better in
 
 
 
-<figure><img src=".gitbook/assets/unknown (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
