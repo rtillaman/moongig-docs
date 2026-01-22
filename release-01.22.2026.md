@@ -21,7 +21,7 @@ This ensures roles that can be fulfilled by different but equally qualified prof
 
 ## Profile Re-verification: Change Tracking
 
-Updated fields of the HCPs are now clearly displayed in the Retool app under **Status Change History**. This allows MedGrocer to easily track and verify specific changes the HCP has made.
+Updated fields of the HCPs are now clearly displayed in the Retool app under **Status Change History**. This allows Medops to easily track and verify specific changes the HCP has made.
 
 ## Automated Alerts: SMS and Fund Transfers
 
