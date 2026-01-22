@@ -11,6 +11,14 @@ Jobs can now be configured to support multiple eligible professions instead of b
 
 This ensures roles that can be fulfilled by different but equally qualified professions are more accurately represented, reducing confusion and expanding the eligible talent pool.
 
+
+
+<figure><img src=".gitbook/assets/Screenshot 2026-01-22 at 3.25.45 PM.png" alt=""><figcaption><p>Add Job Profession Field (Client Page)</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Screenshot 2026-01-22 at 3.26.47 PM (1).png" alt=""><figcaption><p>Job Card with Multi-Profession (Client Page)</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Screenshot 2026-01-22 at 3.28.29 PM.png" alt="" width="340"><figcaption><p>Job Card with Multi-Profession (Landing Page)</p></figcaption></figure>
+
 ## Profile Re-verification: Change Tracking
 
 Updated fields of the HCPs are now clearly displayed in the Retool app under **Status Change History**. This allows MedGrocer to easily track and verify specific changes the HCP has made.
