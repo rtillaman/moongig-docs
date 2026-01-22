@@ -23,22 +23,7 @@ This ensures roles that can be fulfilled by different but equally qualified prof
 
 Updated fields of the HCPs are now clearly displayed in the Retool app under **Status Change History**. This allows Medops to easily track and verify specific changes the HCP has made.
 
-## Automated Alerts: SMS and Fund Transfers
 
-System alerts are now triggered for the following events:
-
-* **Netbank** account balance is **below ₱50,000.**
-* **Netbank** cannot process payments.
-* **Netbank** returned a failed payment transaction.
-* **TXTBOX** returned a **400 or 500** error from their API.
-
-**New Email Templates**&#x20;
-
-The following templates were added to support the new system alerts:
-
-* **\[57] Alert Netbank Low Balance**
-* **\[58] Alert Netbank Payout Error**
-* **\[59] Alert SMS Error**
 
 ## Bug Fixes
 
