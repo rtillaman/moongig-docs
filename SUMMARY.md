@@ -17,3 +17,4 @@
 * [Release 12.19.2025](release-12.19.2025.md)
 * [Release 01.08.2026](release-01.08.2026.md)
 * [Release 01.22.2026](release-01.22.2026.md)
+* [Release 01.29.2026](release-01.29.2026.md)

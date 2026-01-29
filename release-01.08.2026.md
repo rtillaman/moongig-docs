@@ -18,13 +18,13 @@ To avoid confusion, here’s how the two metrics differ:
 * **Impressions:** counted when an ad appears on a user’s feed, even if they don’t open it
 * **Views:** counted only when a user opens the job/shift details and stays for atleast 3 seconds
 
-<figure><img src=".gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Provider Login Page Rework
 
 We’ve refreshed the **Provider Login Page** to better showcase Moongig’s value while making the sign-in more welcoming.
 
-<figure><img src=".gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
