@@ -2,7 +2,9 @@
 
 ## Internships
 
-![](.gitbook/assets/unknown.png)
+<figure><img src=".gitbook/assets/Internship Job Card.png" alt=""><figcaption></figcaption></figure>
+
+
 
 We’ve introduced **Internship openings** as a new opportunity type alongside Jobs and Shifts, making it easier for students, fresh graduates, and career shifters to explore opportunities with minimal setup.
 
