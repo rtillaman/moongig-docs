@@ -24,7 +24,7 @@ To help us better match healthcare professionals with overseas opportunities, we
 
 * **Previous Overseas Experience:** Users who have worked abroad can select the countries where they previously worked, with an option to specify others not listed.
 
-![](<.gitbook/assets/unknown (6).png>)![](<.gitbook/assets/unknown (1) (1) (1).png>)
+![](<.gitbook/assets/unknown (6).png>)![](<.gitbook/assets/unknown (1) (1) (1) (1).png>)
 
 <br>
 
@@ -34,7 +34,7 @@ This helps improve recommendations and ensures users see opportunities that bett
 
 * We’ve updated the link-sharing functionality within the **Professional App and Client Portal** to ensure **shared links** now use the correct Moongig URLs and display dynamic metadata. This improvement provides more accurate redirects and consistent link previews when sharing jobs or shift links across different platforms.
 
-<figure><img src=".gitbook/assets/unknown (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <br>
 

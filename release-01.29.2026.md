@@ -47,9 +47,9 @@ Approved Providers can now create Overseas Job postings for roles located outsid
 
 Overseas jobs are visually distinct and globally visible.
 
-<figure><img src=".gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **What’s New:**
 
@@ -74,7 +74,7 @@ We’ve updated how job opening notifications are sent to reduce email overload 
 
 Instead of sending an email for every new job posting, relevant openings are now bundled into a single weekly summary.
 
-<figure><img src=".gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **What’s New:**
 
@@ -97,7 +97,7 @@ Healthcare Professionals can now upload and manage multiple site clearance docum
 
 Site clearances are grouped by client, making it easier to identify and prioritize qualified professionals during selection.
 
-![](<.gitbook/assets/unknown (3).png>)
+![](<.gitbook/assets/unknown (3) (1).png>)
 
 **What’s New:**
 
