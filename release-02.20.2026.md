@@ -56,6 +56,10 @@ This release improves onboarding clarity, document handling, and application suc
 
 
 
+* **After submission of missing requirements for both Jobs and Shifts**
+  * The profile is sent to MedOps for verification.
+  * Once approved, the job/shift application automatically proceeds.
+  * No re-application is required.
 * **Important Improvements**
   * The submit button stays disabled until all required items are complete.
   * Users can go back anytime without losing progress.
@@ -64,6 +68,8 @@ This release improves onboarding clarity, document handling, and application suc
   * Profiles are reviewed only after all required documents are uploaded.
 
 This release makes the application process clearer, more flexible, and easier to complete, helping HCPs apply with confidence and helping clients receive complete applications faster.
+
+<br>
 
 \
 \
