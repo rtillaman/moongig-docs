@@ -24,7 +24,7 @@ To avoid confusion, here’s how the two metrics differ:
 
 We’ve refreshed the **Provider Login Page** to better showcase Moongig’s value while making the sign-in more welcoming.
 
-<figure><img src=".gitbook/assets/unknown (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unknown (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <br>
 

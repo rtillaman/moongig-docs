@@ -29,7 +29,7 @@ This allows Moongig to support early-career opportunities without disrupting exi
 
 ## Sort Job Listing to Most Recent Application
 
-![](<.gitbook/assets/unknown (1).png>)
+![](<.gitbook/assets/unknown (1) (1).png>)
 
 We’ve improved how job listings are organized on the Provider Jobs page to help recruiters focus on roles that need attention and avoid empty or inactive listings taking priority.
 
