@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Release 02.20.2026
 
 ## New Profile Creation (V1)
