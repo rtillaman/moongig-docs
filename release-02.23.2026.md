@@ -41,7 +41,7 @@ This release improves onboarding clarity, document handling, and application suc
 
 
 
-<div data-full-width="true"><figure><img src=".gitbook/assets/Screenshot 2026-02-23 at 4.41.13 PM.png" alt="" width="342"><figcaption><p>Job application - Missing Documents Screen</p></figcaption></figure></div>
+<div data-full-width="true"><figure><img src=".gitbook/assets/Screenshot 2026-02-23 at 4.49.45 PM.png" alt="" width="342"><figcaption><p>Job application - Missing Documents Screen</p></figcaption></figure></div>
 
 \
 <br>
