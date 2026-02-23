@@ -41,7 +41,7 @@ This release improves onboarding clarity, document handling, and application suc
 
 
 
-<div data-full-width="true"><figure><img src=".gitbook/assets/unknown (1).png" alt="" width="375"><figcaption><p>Job application - Missing Documents Screen</p></figcaption></figure></div>
+<div data-full-width="true"><figure><img src=".gitbook/assets/Screenshot 2026-02-23 at 1.05.57 PM.png" alt="" width="375"><figcaption><p>Job application - Missing Documents Screen</p></figcaption></figure></div>
 
 \
 <br>
@@ -52,7 +52,7 @@ This release improves onboarding clarity, document handling, and application suc
     * Payout information
     * TIN information
 
-<figure><img src=".gitbook/assets/Screenshot 2026-02-20 at 2.15.24 PM.png" alt="" width="375"><figcaption><p>Shift application - Missing documents screen</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2026-02-23 at 1.10.13 PM.png" alt="" width="375"><figcaption><p>Shift application - Missing documents screen</p></figcaption></figure>
 
 
 
