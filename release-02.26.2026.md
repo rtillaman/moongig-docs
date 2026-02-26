@@ -21,7 +21,7 @@ First payouts will remain fully manual. Final payouts are now automatically rele
 
 #### What Stays the Same:
 
-* First Payouts remain fully manual
+* First payout proceeds automatically after successful Shift Attendance Review
 * No changes to payout computation logic
 * No changes to withholding tax (WHT) processing\
   <br>
