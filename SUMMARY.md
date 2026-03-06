@@ -23,3 +23,4 @@
 * [Release 02.20.2026](release-02.20.2026.md)
 * [Release 02.23.2026](release-02.23.2026.md)
 * [Release 02.26.2026](release-02.26.2026.md)
+* [Release 03.06.2026](release-03.06.2026.md)
