@@ -37,7 +37,7 @@ These improvements help make the HCP Profile more **structured, easier to naviga
 
 <figure><img src=".gitbook/assets/unknown (25).png" alt=""><figcaption><p>HCP Profile: From Shifts</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/unknown (26).png" alt=""><figcaption><p>HCP Profile: From Jobs</p></figcaption></figure>
+<figure><img src=".gitbook/assets/screencapture-stg-provider-moongig-xyz-dashboard-2026-03-06-12_57_48.png" alt=""><figcaption><p>HCP Profile: From Jobs</p></figcaption></figure>
 
 
 
