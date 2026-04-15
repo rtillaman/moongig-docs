@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Release 09.26.2025](README.md)
-* [Release 04.15.2026](release-04.15.2026.md)
 * [Release 09.30.2025](release-09.30.2025.md)
 * [Release 10.01.2025](release-10.01.2025.md)
 * [Release 10.10.2025](release-10.10.2025.md)
@@ -26,3 +25,4 @@
 * [Release 02.26.2026](release-02.26.2026.md)
 * [Release 03.06.2026](release-03.06.2026.md)
 * [Release 03.27.2026](release-03.27.2026.md)
+* [Release 04.15.2026](release-04.15.2026.md)
